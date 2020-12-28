@@ -1,0 +1,10 @@
+{
+  "development": {
+    "apiUrl": "https://passionever.herokuapp.com",
+    "contentApiKey": "a504e043a8a563be64b59af51e"
+  },
+  "production": {
+    "apiUrl": "https://passionever.herokuapp.com",
+    "contentApiKey": "a504e043a8a563be64b59af51e"
+  }
+}
